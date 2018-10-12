@@ -10,6 +10,7 @@
         <module>finger-registry</module>
         <module>finger-api-gateway</module>
         <module>finger-item</module>
+        <module>finger-common</module>
     </modules>
     <packaging>pom</packaging>
 
